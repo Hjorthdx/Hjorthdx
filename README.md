@@ -3,7 +3,7 @@
 
 ## About me!
 - I'm currently working on my masters degree in software
-- I'm currently developing my discord bot
+- I'm currently developing my discord bot 'FeatureCreepBot'
 
 ### Connect with me:
 
@@ -15,8 +15,8 @@
 ### Languages and Tools:
 
 ---
-<img align='left' alt="Hjorthdx's Github stats" src='https://github-readme-stats.vercel.app/api?username=Hjorthdx&show_icons=true&hide_border=true&count_private=true' />
-
+<img align='left' alt='My Github stats' src='https://github-readme-stats.vercel.app/api?username=Hjorthdx&show_icons=true&hide_border=true&count_private=true&theme=radical' />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hjorthdx&repo=DiscordFeatureCreepBot)](https://github.com/Hjorthdx/DiscordFeatureCreepBot)
 <br />
 <br />
 
