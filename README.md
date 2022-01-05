@@ -13,10 +13,11 @@
 <br />
 
 ### Languages and Tools:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hjorthdx&repo=DiscordFeatureCreepBot)](https://github.com/Hjorthdx/DiscordFeatureCreepBot)
 
 ---
-<img align='left' alt='My Github stats' src='https://github-readme-stats.vercel.app/api?username=Hjorthdx&show_icons=true&hide_border=true&count_private=true&theme=radical' />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hjorthdx&repo=DiscordFeatureCreepBot)](https://github.com/Hjorthdx/DiscordFeatureCreepBot)
+<img align='left' alt="Hjorthdx's Github stats" src='https://github-readme-stats.vercel.app/api?username=Hjorthdx&show_icons=true&hide_border=true&count_private=true&theme=radical' />
+
 <br />
 <br />
 
