@@ -29,7 +29,9 @@
 
 <br />
 
-### Pinned repositories
+---
+
+### Pinned repositories:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hjorthdx&repo=DiscordFeatureCreepBot)](https://github.com/Hjorthdx/DiscordFeatureCreepBot)
 
 <br />
