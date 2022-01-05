@@ -27,9 +27,7 @@
 <br />
 
 ---
-<img align="left" alt="Hjorthdx's Github stats" src="https://github-readme-stats.vercel.app/api?username=Hjorthdx&show_icons=true&hide_border=true&count_private=true&theme=radical" />\
-
-<br />
+<img align="left" alt="Hjorthdx's Github stats" src="https://github-readme-stats.vercel.app/api?username=Hjorthdx&show_icons=true&hide_border=true&count_private=true&theme=radical" /> <br />
 
 ---
 
