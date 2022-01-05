@@ -1,4 +1,4 @@
-### Hello, my name is Søren Hjorth Boelskifte
+## Hello, my name is Søren Hjorth Boelskifte
 [![Twitter Follow](https://img.shields.io/twitter/follow/Hjorthdx?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHjorthdx&screen_name=Hjorthdx)
 
 ## About me!
@@ -27,7 +27,9 @@
 ---
 <img align="left" alt="Hjorthdx's Github stats" src="https://github-readme-stats.vercel.app/api?username=Hjorthdx&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
+<br />
 
+### Pinned repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hjorthdx&repo=DiscordFeatureCreepBot)](https://github.com/Hjorthdx/DiscordFeatureCreepBot)
 
 <br />
