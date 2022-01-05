@@ -26,7 +26,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hjorthdx&layout=compact)]
+<br />![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hjorthdx&layout=compact)
 
 <br />
 
