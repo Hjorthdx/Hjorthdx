@@ -31,6 +31,9 @@
 
 ### Pinned repositories:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hjorthdx&repo=DiscordFeatureCreepBot)](https://github.com/Hjorthdx/DiscordFeatureCreepBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hjorthdx&repo=MapMatchingWeightCompletion)](https://github.com/Hjorthdx/MapMatchingWeightCompletion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hjorthdx&repo=QuotationManagementSystem)](https://github.com/Hjorthdx/QuotationManagementSystem)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hjorthdx&repo=SnakeAI)](https://github.com/Hjorthdx/SnakeAI)
 
 ---
 <img align="left" alt="Hjorthdx's Github stats" src="https://github-readme-stats.vercel.app/api?username=Hjorthdx&show_icons=true&hide_border=true&count_private=true&theme=radical" /> <br /><br /><br /><br /><br />
